@@ -193,15 +193,15 @@ def download_image(tag, url, file_path, image_type='JPEG', verbose=True):
 
 tags = [
     # 'Alat Musik Bonang',
-    'Alat Musik Rebab',
-    'Alat Musik Saluang',
-    'Alat Musik Burdah',
-    'Alat Musik Sasando',
-    'Alat Musik Sape',
-    'Alat Musik Talindo',
-    'Alat Musik Kolintang',
-    'Alat Musik Tifa',
-    'Alat Musik Yi'
+    # 'Alat Musik Rebab',
+    # 'Alat Musik Saluang',
+    # 'Alat Musik Burdah',
+    # 'Alat Musik Sasando',
+    # 'Alat Musik Sape',
+    # 'Alat Musik Talindo',
+    # 'Alat Musik Kolintang',
+    # 'Alat Musik Tifa',
+    # 'Alat Musik Yi'
 ]
 
 for tag in tags:
